@@ -70,3 +70,25 @@ Overall, I had a good mix of both creative and analytical tasks today, which kep
 Practicing double pointers and sliding window techniques, which are particularly useful for efficiently solving problems involving substrings.
 
 Overall, I had a good mix of both creative and analytical tasks today, which kept me engaged and motivated. Looking forward to more coding adventures tomorrow!
+
+
+## 3rd December
+
+Today was a mixed bag of productivity and missed opportunities. While I couldn't dedicate time to my Java coding, I made significant progress on my website development, which feels rewarding yet bittersweet.
+
+### Website Development
+I spent most of the day focusing on completing my website. One of the highlights was learning about **Email.js**, an amazing tool for implementing an automated mailing system. This feature is perfect for anyone who wants to get in touch with me directly through my site, and I’m excited to integrate it into my project.
+
+#### Key Takeaways About Email.js:
+- Easy integration with JavaScript.
+- Supports personalized email templates.
+- Simplifies automated email workflows without requiring a backend.
+
+It’s a small but impactful addition to my website, and I’m genuinely happy with how it turned out.
+
+### Missed Opportunity
+Unfortunately, I couldn’t work on my Java code today, which has left me feeling a bit off balance. Java is a crucial part of my learning goals, and missing a day feels like a setback. However, I plan to compensate tomorrow by allocating extra time to dive deep into my coding tasks.
+
+---
+
+Here’s hoping for a more balanced day tomorrow with progress on all fronts!
